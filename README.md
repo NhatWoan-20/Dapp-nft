@@ -29,13 +29,13 @@ git -v
 Open Terminal (or Git Bash) and run:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/NhatWoan-20/Dapp-nft.git
 ```
 
 Navigate into the project folder:
 
 ```bash
-cd <project-folder-name>
+cd Dapp-nft
 ```
 
 ---
